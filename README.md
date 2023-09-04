@@ -18,5 +18,5 @@ Build and run an app
 Berikut adalah hasil dari ASSIGNMENT 2:
 
 <h3 align="left"> 
-    <img src="https://github.com/HaikalFaruq/Hacktiv8/assets/50310521/64c8b6aa-c593-4e2b-88a8-3a251239f88f" width="500" height="1000" />
+    <img src="https://github.com/HaikalFaruq/Hacktiv8/assets/50310521/64c8b6aa-c593-4e2b-88a8-3a251239f88f" width="300" height="600" />
 </h3> 
