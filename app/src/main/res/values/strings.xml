@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter Homework</string>
+    <string name="btn_increment_text">COUNT</string>
+<!--    <string name="btn_decrement_text">Decrement</string>-->
+    <string name="et_name_hint">This is an edit text</string>
+</resources>
